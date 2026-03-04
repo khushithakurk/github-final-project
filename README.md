@@ -1,4 +1,11 @@
 # Simple Calculator App 🧮
+## How to Run
+
+1. Make the script executable:
+   chmod +x simple-interest.sh
+
+2. Run the script:
+   ./simple-interest.sh
 
 A basic command-line calculator built using Python.  
 It performs simple arithmetic operations:
