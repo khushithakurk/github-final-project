@@ -1,5 +1,15 @@
 # Contributor Covenant Code of Conduct
 
+## Enforcement Guidelines
+
+Community leaders will follow these guidelines in determining consequences for any action they deem in violation of this Code of Conduct:
+
+1. Correction
+2. Warning
+3. Temporary Ban
+4. Permanent Ban
+
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
